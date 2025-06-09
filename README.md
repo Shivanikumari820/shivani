@@ -1,90 +1,63 @@
 <h1 align="center">Hi 👋, I'm Shivani Kumari</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💡 DSA Enthusiast | Lifelong Learner</h3>
+
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-user-id" width="150" style="border-radius: 50%;" alt="Shivani Kumari profile picture"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivanikumari820&label=Profile%20Views&color=0e75b6&style=flat" alt="shivanikumari820" />
+  <img src="https://komarev.com/ghpvc/?username=shivani-kumari&label=Profile%20views&color=gray&style=flat" alt="shivani-kumari" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### 👩‍💻 About Me
+
+- 💻 I enjoy turning ideas into reality through code.
+- 🌱 Currently learning **Advanced Backend with Express & MongoDB**, and improving DSA skills in C++.
+- 🛠️ Focused on **clean architecture, responsive UI**, and **full-stack web apps**.
+- 📧 Reach me at **shivani.kumari@example.com**
+
+---
+
+### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shivani-kumari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <a href="https://www.codechef.com/users/shivanik8209" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
-  </a>
-  <a href="https://leetcode.com/shivanishivani_kumari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30"/>
-  </a>
+  <a href="https://twitter.com/ShivaniHandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shivani-kumari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/shivani_dsa" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://leetcode.com/shivani_dsa/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack
 
-#### 💻 Programming Languages:
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)  
-
-#### 🌐 Frontend Development:
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  
-![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)  
-![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-
-#### 🛠️ Backend Development:
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)  
-![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-
-#### 🗄️ Databases:
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-#### 📊 Libraries & Other Tools:
-![CanvasJS](https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg)
+- **Languages:** HTML5, CSS3, JavaScript, Python, C, C++
+- **Frontend:** React.js, Responsive Design, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
 ---
 
-### 📈 GitHub Stats:
+### 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [MyCinema Booking System](https://github.com/yourusername/mycinema) | A responsive and feature-rich movie ticket booking platform |
+| [IES Festhive](https://github.com/yourusername/IES_Festhive) | A complete event management platform for college fests |
+| [FreshFood Website](https://github.com/yourusername/freshfood) | A visually appealing and mobile-friendly food delivery homepage |
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanikumari820&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" width="40%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanikumari820&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanikumari820&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" width="60%" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies (Optional):
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivanikumari820&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-### 🔭 Currently Working On:
-- Building full-stack web applications with MERN stack.
-- Improving my problem-solving skills on LeetCode and CodeChef.
-
-### 📫 How to reach me:
-- Drop a message on [LinkedIn](https://linkedin.com/in/shivani-kumari)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<h3 align="center">💬 Let’s Collaborate and Build Something Awesome Together!</h3>
